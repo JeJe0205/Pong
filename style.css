@@ -1,13 +1,13 @@
-body{
-    background-color: dimgray;
+body {
+    background-color: darkolivegreen;
 }
 
-#pong{
+#pong {
     border: 2px solid #FFF;
     position: absolute;
-    margin :auto;
-    top:0;
-    right:0;
-    left:0;
-    bottom:0;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
 }
